@@ -1,0 +1,43 @@
+.wrap{width:98%;}
+#bodyFormat1.wrap, #bodyFormat2.wrap, #bodyFormat3.wrap{width:96%;}
+#headerFormat2 #tml > ul > li > a,#headerFormat2 #tml > ul >li.on > a,#headerFormat2 #tml > ul > li:hover > a,#headerFormat3 #tml > ul > li > a,#headerFormat3 #tml > ul >li.on > a,#headerFormat3 #tml > ul > li:hover > a, #headerFormat4 #tml > ul > li > a,#headerFormat4 #tml > ul >li.on > a,#headerFormat4 #tml > ul > li:hover > a{padding:15px 20px;}
+#flash.wrap{ width:100%}
+@-moz-document url-prefix() {.DynBanner img { width: 100%;}}
+
+
+@media(max-width:940px){
+.flash_dn{display:none;}	
+a[data-fancybox-group="addZoomIcon-showZoomImage"] { display:inherit;}
+a[data-fancybox-group="addZoomIcon-showZoomImage"] img.pa { display:none;}
+}
+
+@media(max-width:800px){
+.wp33 li{ width:32%;}
+.tcl.float.two li{float:none;width:auto;}
+.tcl.float.three li{width:49%;}
+.tcl.float.four li{width:32%;}
+.tcl.float ul:after{clear:both;content:'';display:table;}
+.pdf > div.fl{float:none;}
+.responsive_ac{text-align:center;}
+
+.columns5 .c1,.columns5 .c2,.columns5 .c3,.columns5 .c4,.columns5 .c5{width:25%;}
+.columns4 .c1,.columns4 .c2,.columns4 .c3,.columns4 .c4{width:33%;}
+.columns3 .c1,.columns3 .c2,.columns3 .c3{width:50%;}
+.columns2 .c1,.columns2 .c2{width:100%;}
+
+@-moz-document url-prefix() {.responsiveLargeImageWidth img, .responsiveMediumImageWidth img, .responsiveSmallImageWidth img { max-width:400px;  max-height:400px;}}
+@-moz-document url-prefix() {.iz_container .innerZoom{max-width:230px;}}
+.slider.pro_detail{width:150px;margin:0 auto;}
+
+.project_tml > li a{padding:5px 6px;}
+
+#headerFormat1 #tml > ul > li > a, #headerFormat1 #tml > ul >li.on > a, #headerFormat1 #tml > ul > li:hover > a{padding:15px 10px;}
+#headerFormat2 #tml > ul > li > a, #headerFormat2 #tml > ul >li.on > a, #headerFormat2 #tml > ul > li:hover > a{padding:15px 9px;}
+#headerFormat3 #tml > ul > li > a, #headerFormat3 #tml > ul >li.on > a, #headerFormat3 #tml > ul > li:hover > a{padding:15px 9px;}
+#headerFormat4 #tml > ul > li > a, #headerFormat4 #tml > ul >li.on > a, #headerFormat4 #tml > ul > li:hover > a{padding:15px 9px;}
+.roundAbt.sweet .leftNav{left:0px;}
+.roundAbt.sweet .rightNav{right:0px;}
+
+
+
+}

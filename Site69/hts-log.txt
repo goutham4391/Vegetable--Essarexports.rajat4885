@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Nov 2022 13:22:38 at https://www.essarexports.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.essarexports.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day14\Web69\Site69" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:22:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.essarexports.com/hitcounter/index.php?mem_id=37040
+13:23:20	Warning: 	Link https://www.essarexports.com/business-enquiry.htm not scanned (follow robots meta tag)
+13:27:09	Warning: 	Retry after error -4 (No data (connection closed)) at link catalog.wlimg.com/templates-images/12446/12447/sitemap_hr.png (from https://catalog.wlimg.com/templates-images/12446/12447/catalog.css)
+13:27:09	Error: 	"Not Found" (404) at link catalog.wlimg.com/templates-images/12446/12447/bx_loader.gif (from https://catalog.wlimg.com/templates-images/12446/12447/catalog.css)
+13:27:09	Warning: 	Retry after error -4 (No data (connection closed)) at link catalog.wlimg.com/templates-images/12446/12447/sprite-icon-cab.png (from https://catalog.wlimg.com/templates-images/12446/12447/catalog.css)
+13:27:10	Warning: 	Retry after error -4 (No data (connection closed)) at link catalog.wlimg.com/flipbook/css/f-book.css (from https://www.essarexports.com/flipbook.html)
+13:27:10	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773589 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773590 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773596 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=1326267 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773622 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773626 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773601 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773615 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773631 not scanned (follow robots meta tag)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773604 not scanned (follow robots meta tag)
+13:27:11	Error: 	"Not Found" (404) at link catalog.wlimg.com/templates-images/12446/12447/sprite-icon-cab.png (from https://catalog.wlimg.com/templates-images/12446/12447/catalog.css)
+13:27:11	Warning: 	Link https://www.essarexports.com/enquiry-form-10019.htm?product_slno=773599 not scanned (follow robots meta tag)
+13:27:14	Error: 	"Not Found" (404) at link catalog.wlimg.com/flipbook/img/bg.jpg (from catalog.wlimg.com/flipbook/css/f-book.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 36 seconds : 166 links scanned, 159 files written (9170131 bytes overall) [7239774 bytes received at 26231 bytes/sec], 2679994 bytes transferred using HTTP compression in 79 files, ratio 25%, 3.5 requests per connection
+(3 errors, 16 warnings, 0 messages)

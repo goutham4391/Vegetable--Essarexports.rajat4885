@@ -1,0 +1,154 @@
+.wrap{width:98%;}
+#bodyFormat1.wrap,#bodyFormat2.wrap ,#bodyFormat3.wrap{width:96%; padding:15px 10px}
+#bodyFormat1>.row1>.col-1, #bodyFormat1>.row1>.col-2,#bodyFormat3 .row1 .col-1, #bodyFormat3 .row1 .col-2{float:none}
+#bodyFormat1 .row1 .row1>.col-1{ padding-right:0}
+#bodyFormat1.diff > .row1 > .col-1,#bodyFormat1.diff > .row1 > .col-2{ width:auto; float:none}
+#flash.wrap{ width:100%}
+
+.flash_dn{display:none;}	
+a[data-fancybox-group="addZoomIcon-showZoomImage"] { display:inherit;}
+a[data-fancybox-group="addZoomIcon-showZoomImage"] img.pa { display:none;}
+
+.iframeVideo{position: relative;padding-bottom: 56.25%;height: 0;overflow: hidden;}
+.iframeVideo iframe,.iframeVideo object,.iframeVideo embed{position:absolute;top:0;left:0;width:100%;height:100%;}
+
+.searchRound,.searchFull,.search.padding,.search.padding .input{max-width:inherit;}
+
+.dt{display:block;}
+.col-1,.col-2,.col-3{display:block;}
+.h2{ position:relative; top:0;left:0; display:block}
+
+.column_box{margin-top:10px;}
+.column_box:first-child{margin-top:0;}
+
+.tcl ul > li .plus:after{content:'\e681';}
+.tcl ul > li .plus.act:after{content:'\e683';}
+
+.tcl.float.two li,.tcl.float.three li{float:none;width:auto;}
+.tcl.float.four li{width:49%;}
+.tcl.float ul:after{clear:both;content:'';display:table;}
+
+.downarrowclass,.rightarrowclass,.tml{display:none;}
+
+.plusMinus{float:right;cursor:pointer;}
+.plusMinus:before{cursor:pointer;font-family:"icomoon";content:'\e685';font-size:18px; font-style:normal}
+.plusMinus.act:before{font-family:"icomoon";content:'\e686';}
+.showHide_rp{display:none;}
+.dn.dim{display:inline-block;}
+.DG-wrapper{margin:0 auto;}
+.wp33 li{ width:49%;}
+/**********************************H E A D E R -- F O R M A T S*************************************************/
+/***HEADER FORMAT---1---***/
+#headerFormat1 .row1 .col-1, #headerFormat1 .row1 .col-2,#headerFormat1 .row1 .col-3{width:auto;text-align:center;padding:5px 0;}
+#headerFormat1 .row1 .col-1{ padding:58px 0 12px}
+#addon .row1 .col-1{ padding:15px 0 10px}
+
+/**********************************F O O T E R -- F O R M A T S*************************************************/
+/***FOOTER FORMAT---1---***/
+footer,footer .ar{text-align:center;}
+footer .column_Box{text-align: left;}
+
+#footerFormat1 .row1 .col-2,#footerFormat1 .row1 .col-1{text-align:center;width:auto;}
+#footerFormat1 .row2 .col-1{width:auto;}
+#footerFormat1 .row2 .col-2{text-align:left;}
+#footerFormat1 .fo .copyRight,#footerFormat1 .fo .memeberOf{float:none;text-align:center;}
+#copyright{padding:0;}
+#footerFormat1.default .row1 .col-1, #footerFormat1.default .row1 .col-2{ width:100%; text-align:left; padding:5px 0}
+#footerFormat1.default .h2{ border:none}
+#footerFormat1.default .row2 .col-1, #footerFormat1.default .row2 .col-2 { text-align:center}
+#footerFormat1.default .col-2 .col-2{ text-align:left}
+footer .h2{border-bottom:1px solid #7dad70;}
+
+/****Products Detail******/
+.pdf > div.fl{float:none;}
+@-moz-document url-prefix() {.responsiveLargeImageWidth img, .responsiveMediumImageWidth img .responsiveSmallImageWidth img { max-width:400px;} }
+.responsive_ac{text-align:center;}
+
+/**********************************B O D Y -- F O R M A T S*************************************************/
+/***BODY FORMAT---1---***/
+#bodyFormat1 .row1 .col-1,#bodyFormat1 .row1 .col-2,#bodyFormat1 .row1 .col-3,#bodyFormat1 .row2 .col-1,#bodyFormat1 .row2 .col-2,#bodyFormat1 .row2 .col-3,#bodyFormat2 .row1 .col-1,#bodyFormat2 .row1 .col-2,#bodyFormat2 .row1 .col-3,#bodyFormat2 .row2 .col-1,#bodyFormat2 .row2 .col-2,#bodyFormat2 .row2 .col-3,#bodyFormat3 .row1 .col-1,#bodyFormat3 .row1 .col-2,#bodyFormat3 .row1 .col-3,#bodyFormat3 .row2 .col-1,#bodyFormat3 .row2 .col-2,#bodyFormat3 .row2 .col-3{width:auto;padding:0;}
+#bodyFormat1 .row1 .col-2,#bodyFormat1 .row2 .col-2,#bodyFormat2 .row1 .col-2,#bodyFormat2 .row2 .col-2,#bodyFormat3 .row1 .col-2,#bodyFormat3 .row2 .col-2,#bodyFormat3 .row1 .col-2,#bodyFormat3 .row2 .col-2{margin:15px 0;}
+
+.st_background{background:none;border:none;padding:0;}
+.body_static .row1.bdr{border:none;}
+
+.DynBanner{text-align:center;}
+
+.formTable.break640 > tbody > tr > td,.formTable.break640 > thead > tr > td{border-width:0 0 1px;display:block;width:auto;}
+
+.iz_container > div {width:350px;margin:0 auto;}
+@-moz-document url-prefix() {.iz_container .innerZoom{max-width:320px;}}
+
+.common_project li{float:none;}
+.common_project > ul > li a{display:block;}
+.common_project li.headHr{float:none;text-align:right;}
+.common_project li.headHr li{text-align:left;}
+.common_project .w200px{width:100%;}
+
+.columns4 .c1,.columns4 .c2,.columns4 .c3,.columns4 .c4{width:50%;margin-bottom:15px;}
+.columns3 .c1,.columns3 .c2,.columns3 .c3,.columns2 .c1,.columns2 .c2{width:100%;float:none;}
+.columns5 .c1,.columns5 .c2,.columns5 .c3,.columns5 .c4,.columns5 .c5{width:33%;}
+
+/****TTW COMMON FORM*****/
+.ttwCommonForm>ul{position:relative; top:1px; right:0; float:none; content:''; display:table; width:100%}
+.ttwCommonForm>ul:after{ clear:both;}
+.ttwCommonForm>ul li{ float:left}
+.ttwCommonForm>ul .on {border-right:0;}
+.ttwCommonForm > div{margin-left:0;}
+
+@media(max-width:480px){
+.bannerCtrl{ display:none}
+.responsiveRemove{display:none;}
+.tcl.float.four li{float:none;width:auto;}
+.width38.pl15px{padding:0;}
+
+/*********************I N N E R - - P A G E S ***********************/
+.formTable > thead{display:none;}
+.formTable > tbody > tr > td,.formTable > thead > tr > td{border-width:0 0 1px !important;display:block;width:auto;}
+.formTable tbody tr{margin-bottom:10px;display:block;border-width:1px 1px 0 !important;}
+.formTable{border:none !important;}
+.responsiveRemove,.formTable td.responsiveRemove{display:none;}
+
+.formTable .headVr b.fr{float:none;display:block;text-align:right;}
+.formTable .w80,.formTable .w70,.formTable .w50,.formTable .w30,.formTable .w20,.formTable .w10{width:95%;}
+.formTable .formTable .w70,.formTable .formTable .w30{width:97%;}
+
+.contact_image2,.contact_image4,.contact_image5{background:none;padding:0;}
+.contact_full_form input.input{width: 95%;margin-top:10px;}
+.contact_full_form input.input:first-child{margin-top:0;}
+.formTable.bdr0 tbody tr{border:none !important;}
+.formTable > tbody > tr > td .formTable  > tbody > tr > td{border:1px solid #444;}
+.formTable.bdr0 > td{padding-top:25px;border:none;}
+.formTable.bdr0 > td:first-child{padding-top:0;}
+.formTable.bdr0.imgWidth > td{padding-top:0;}
+.formTable.bdr0.imgWidth > td:first-child{padding-top:10px;}
+.formTable.bdr0.imgWidth table td{width:50%;}
+.formTable.bdr0.imgWidth table tbody tr{margin:0;display:table-row}
+.formTable.bdr0.simple td,.formTable.bdr0.simple b,.formTable.bdr0.simple tbody tr{padding-top:0;margin-bottom:0;}
+
+.headHr .fl, .headHr .fr,.responsive_clear .fl,.responsive_clear .fr{float:none;display:block;}
+
+.classified3Images ul li{width:47%;}
+
+@-moz-document url-prefix() {.responsiveLargeImageWidth img, .responsiveMediumImageWidth img, .responsiveSmallImageWidth img{ max-width:350px;max-height:350px;}}
+
+.columns4 .c1,.columns4 .c2,.columns4 .c3,.columns4 .c4{width:100%;float:none;}
+.columns5 .c1,.columns5 .c2,.columns5 .c3,.columns5 .c4,.columns5 .c5{width:50%;}
+
+/***TTW COMMON FORM*****/
+.ttwCommonForm .data > div{ display:block; float:none; width:98%;}
+}
+
+@media(max-width:360px){
+#bodyFormat1.wrap, #bodyFormat2.wrap, #bodyFormat3.wrap{width:94%;}
+.classified3Images ul li{width:100%;margin:0 auto 15px;}
+.iz_container > div {width:220px;margin:0 auto;}
+@-moz-document url-prefix() {.responsiveLargeImageWidth img, .responsiveMediumImageWidth img, .responsiveSmallImageWidth img { max-width:250px; max-height:250px;}}
+@-moz-document url-prefix() {.iz_container .innerZoom{max-width:200px;}}
+.columns5 .c1,.columns5 .c2,.columns5 .c3,.columns5 .c4,.columns5 .c5{width:100%;float:none;}
+.wp33 li{ width:auto; display:block;}
+}
+
+@media(max-width:320px){
+@-moz-document url-prefix() {.responsiveLargeImageWidth img, .responsiveMediumImageWidth img, .responsiveSmallImageWidth img { max-width:220px; max-height:220px;}}
+}
